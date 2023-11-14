@@ -1,0 +1,9 @@
+.virtual_documents
+.ipynb_checkpoints
+
+lesson_1/bird_or_not/images
+lesson_1/bird_or_not/bird.jpg
+lesson_1/bird_or_not/forest.jpg
+lesson_1/bird_or_not/pug.jpg
+
+.DS_Store
